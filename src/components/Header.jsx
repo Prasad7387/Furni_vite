@@ -7,7 +7,7 @@ function Header() {
   return (
     <div>
              <Navbar bg="success" data-bs-theme="dark" className='text-white'>
-        <Container>
+        <Container >
           <Navbar.Brand href="#home">Furni.</Navbar.Brand>
           <Nav className="">
             <Nav.Link href="#home" className='text-white'>Home</Nav.Link>
